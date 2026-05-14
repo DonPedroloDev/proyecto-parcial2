@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "proyecto_parcial2", from = "src"}]
+packages = [{include = "proyecto_parcial2"}]
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
